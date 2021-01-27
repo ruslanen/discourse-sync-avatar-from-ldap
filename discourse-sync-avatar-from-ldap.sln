@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "discourse-sync-avatar-from-ldap", "discourse-sync-avatar-from-ldap\discourse-sync-avatar-from-ldap.csproj", "{09735896-B4D8-4BB0-B0CF-CB33F7D0CD83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09735896-B4D8-4BB0-B0CF-CB33F7D0CD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09735896-B4D8-4BB0-B0CF-CB33F7D0CD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09735896-B4D8-4BB0-B0CF-CB33F7D0CD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09735896-B4D8-4BB0-B0CF-CB33F7D0CD83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

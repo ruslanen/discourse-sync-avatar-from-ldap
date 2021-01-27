@@ -1,0 +1,12 @@
+﻿{
+  "Discourse" : {
+    "Url": "",
+    "ApiKey": "",
+    "UserName": ""
+  },
+  "ActiveDirectory": {
+    "Host": "",
+    "Login": "",
+    "Password": ""
+  }
+}

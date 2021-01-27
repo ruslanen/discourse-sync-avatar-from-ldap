@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>discourse_sync_avatar_from_ldap</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="ImageProcessor" Version="2.4.5" />
+      <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+      <PackageReference Include="Novell.Directory.Ldap.NETStandard" Version="4.0.0-beta1" />
+      <PackageReference Include="RestSharp" Version="106.11.8-alpha.0.12" />
+      <PackageReference Include="System.Drawing.Common" Version="5.0.0" />
+    </ItemGroup>
+
+</Project>
